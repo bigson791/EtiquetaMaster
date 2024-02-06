@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EtiquetaMaster", "EtiquetaMaster.csproj", "{A19EFAD7-950D-431E-B2C0-3F835E1745A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A19EFAD7-950D-431E-B2C0-3F835E1745A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A19EFAD7-950D-431E-B2C0-3F835E1745A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A19EFAD7-950D-431E-B2C0-3F835E1745A8}.Debug|x64.ActiveCfg = Debug|x64
+		{A19EFAD7-950D-431E-B2C0-3F835E1745A8}.Debug|x64.Build.0 = Debug|x64
+		{A19EFAD7-950D-431E-B2C0-3F835E1745A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A19EFAD7-950D-431E-B2C0-3F835E1745A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A19EFAD7-950D-431E-B2C0-3F835E1745A8}.Release|x64.ActiveCfg = Release|x64
+		{A19EFAD7-950D-431E-B2C0-3F835E1745A8}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A1599C1-2C09-4364-9A0B-DB70AD96324D}
+	EndGlobalSection
+EndGlobal
